@@ -6,7 +6,7 @@
 
 ### **Descrição:** 
 
-Desafio do Alura + ONE onde tivemos que criar um programa que irá adicionar novos card de produtos, limpar o formulário e excluír os cards quando clicar no icone excluír.
+Desafio do Alura + ONE onde tivemos que criar um programa que irá adicionar novos card de produtos, limpar o formulário e excluir os cards quando clicar no ícone excluir.
 
 #### Elementos principais da página:
 
