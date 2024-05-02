@@ -1,0 +1,34 @@
+{
+  "produtos": [
+    {
+      "nome": "Game Boy Clssic",
+      "valor": 60,
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9Jg0-IpQI60gCmFPtyYepdXvcFK2uAOfCr5MjkBUOsw&s",
+      "id": 1
+    },
+    {
+      "nome": "Stormtrooper",
+      "valor": 70,
+      "imagem": "https://arteempapel.com.br/wp-content/uploads/sites/3/2020/09/Storm-1-scaled-4.jpg",
+      "id": 2
+    },
+    {
+      "nome": "Pocket Go",
+      "valor": 80,
+      "imagem": "https://m.media-amazon.com/images/I/41hB5jaHLCL.jpg",
+      "id": 3
+    },
+    {
+      "nome": "Tamagotchi",
+      "valor": 90,
+      "imagem": "https://i5.walmartimages.com/seo/Original-Tamagotchi-Flames_5b5b8c85-b7c4-46ee-a403-438f54a9d7d6.ff0527018beaef1d60a41f2f3416e8ad.jpeg",
+      "id": 4
+    },
+    {
+      "nome": "Boneco Grogu",
+      "valor": "100",
+      "imagem": "https://images.tcdn.com.br/img/img_prod/1045487/boneco_grogu_a_crianca_the_mandalorian_star_wars_27cm_1553_1_ca93ad053b6e47117cfc1207a773385e.jpg",
+      "id": 5
+    }
+  ]
+}
