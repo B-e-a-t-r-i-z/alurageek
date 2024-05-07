@@ -1,6 +1,6 @@
 # AluraGeek
 
->Status: **Densenvolvendo** :computer:
+>Status: **Finalizado** ✔️
 
 ## Bem-vindos ao meu AluraGeek!
 
