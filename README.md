@@ -4,6 +4,10 @@
 
 ## Bem-vindos ao meu AluraGeek!
 
+![video](https://github.com/B-e-a-t-r-i-z/alurageek/assets/100288801/eaa5fd1a-f57c-4b70-82e4-c342f6ec9028)
+
+![video_2](https://github.com/B-e-a-t-r-i-z/alurageek/assets/100288801/d7e414a8-29b2-4022-8c92-900ceb1f7152)
+
 ### **Descrição:** 
 
 Desafio do Alura + ONE onde tivemos que criar um programa que irá adicionar novos card de produtos, limpar o formulário e excluir os cards quando clicar no ícone excluir.
