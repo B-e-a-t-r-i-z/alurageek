@@ -17,7 +17,19 @@ export default function constroiCard(nome, valor, imagem, id) {
             <img src="./assets/icone_lixeira.png" alt="Icone excluir">
             </button>
         </div>
-    </div>`
+    </div>`;
+
+    const btnExcluir = produto.querySelector('.meus__produtos__card__info__excluir');
+
+    btnExcluir.addEventListener('click', async () => {
+        try {
+            await conectaApi.deletaProduto(id);
+            produto.remove();
+        } catch (error) {
+            console.error('Erro ao excluir produto: ', error);
+        }
+    });
+
     return produto;
 }
 

@@ -27,7 +27,6 @@ async function criaProduto(nome, valor, imagem, id) {
     return conexaoConvertida;
 }
 
-// Função para deletar um poduto
 async function deletaProduto(id) {
     const conexao = await fetch(`http://localhost:3000/produtos/${id}`, {
         method: "DELETE",
